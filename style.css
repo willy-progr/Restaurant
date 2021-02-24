@@ -1,0 +1,90 @@
+
+form {
+    text-align: center;
+    border: 2px solid rgba(135, 206, 250, 0.637);
+    width: 40%;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    border-radius: 13px;
+    margin-left: 350px;
+}
+
+#line1 {
+    text-align: center;
+    color: rgb(19, 7, 124);
+    font-size: 50px;
+    font-weight:700 ;
+    margin: 42px;
+    font-weight: 700;
+    text-shadow: 2px 2px green;
+}
+label{
+    text-align: center;
+}
+input{
+    border: 1px solid rgba(135, 206, 250, 0.637);
+    border-radius: 05px;
+}
+#Subscribe{
+    color: white;
+    background-color: rgba(220, 20, 60, 0.815);
+    padding: 10px;
+}
+#Subscribe:hover{
+  background-color: green;
+}
+.nav{
+  background-color: rgba(153, 40, 40, 0.801);
+  width: 100%;
+  padding: 10px;
+}
+.nav a{
+  text-decoration: none;
+  color: white;
+  padding: 20px;
+}
+.nav a:hover{
+  background-color: green;
+  color: white;
+}
+.heading{
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+table{
+  border-spacing: 10px;
+  display: table-row;
+}
+.meals{
+   border: 1px solid rgba(0, 128, 0, 0.76);
+   margin-left: 80px;
+   margin-bottom: 80px;
+   width: 500px;
+   border-radius: 10px;
+   background-color: rgba(128, 128, 128, 0.233);
+}
+.button{
+  color: white;
+  border-radius: 6px;
+  background-color: rgba(220, 20, 60, 0.815);
+  padding: 20px;
+  margin-left: 40%;
+  border: none;
+  margin-bottom: 12px;
+}
+.button:hover{
+  background-color: green;
+  cursor: pointer;
+}
+.videos{
+  display: flex;
+}
+.videos div{
+  margin: 42px;
+  border: 1px solid rgba(0, 128, 0, 0.596);
+}
+.footer{
+  background-color: rgba(128, 128, 128, 0.486);
+  padding: 36px;
+}
